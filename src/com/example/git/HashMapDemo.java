@@ -11,10 +11,9 @@ public class HashMapDemo {
 	map.put("pratiksha",03);
 	map.put("paresh",02);
 	System.out.println(map);
-	
 
-	System.out.println(" hello from Hash map");
 	
+	System.out.println("Hello from India");
 	}
 
 }
