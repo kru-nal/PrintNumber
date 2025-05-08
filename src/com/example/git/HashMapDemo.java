@@ -9,7 +9,7 @@ public class HashMapDemo {
 	
 	map.put("krunal",01);
 	map.put("pratiksha",03);
-	map.put("paresh",02);
+
 	System.out.println(map);
 
 	
