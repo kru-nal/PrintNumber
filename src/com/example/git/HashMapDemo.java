@@ -12,7 +12,8 @@ public class HashMapDemo {
 	map.put("paresh",02);
 	System.out.println(map);
 	
-	System.out.println("hello form java");
+
+	System.out.println(" hello from Hash map");
 	
 	}
 
